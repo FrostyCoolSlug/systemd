@@ -57,6 +57,14 @@ usb:v33AEp0004*
 usb:v33AEp0007*
  ID_AV_PRODUCTION_CONTROLLER=1
 
+# Beacn Headset
+usb:v33AEp0010*
+ ID_AV_PRODUCTION_CONTROLLER=1
+
+# Beacn Headset (Wireless mode)
+usb:v33AEp8010*
+ ID_AV_PRODUCTION_CONTROLLER=1
+
 ###################
 # Blue Microphones
 ###################
